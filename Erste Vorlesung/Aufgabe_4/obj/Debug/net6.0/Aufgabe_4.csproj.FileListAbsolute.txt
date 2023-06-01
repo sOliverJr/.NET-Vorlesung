@@ -1,0 +1,15 @@
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/bin/Debug/net6.0/Aufgabe_4
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/bin/Debug/net6.0/Aufgabe_4.deps.json
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/bin/Debug/net6.0/Aufgabe_4.runtimeconfig.json
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/bin/Debug/net6.0/Aufgabe_4.dll
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/bin/Debug/net6.0/Aufgabe_4.pdb
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/Aufgabe_4.csproj.AssemblyReference.cache
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/Aufgabe_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/Aufgabe_4.AssemblyInfoInputs.cache
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/Aufgabe_4.AssemblyInfo.cs
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/Aufgabe_4.csproj.CoreCompileInputs.cache
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/Aufgabe_4.dll
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/refint/Aufgabe_4.dll
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/Aufgabe_4.pdb
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/Aufgabe_4.genruntimeconfig.cache
+/Users/oli/Documents/GitHub/.NET-Vorlesung/Erste Vorlesung/Aufgabe_4/obj/Debug/net6.0/ref/Aufgabe_4.dll
